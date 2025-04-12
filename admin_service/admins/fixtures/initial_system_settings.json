@@ -1,0 +1,7 @@
+[
+    { "model": "admins.systemsetting", "fields": { "key": "site_name", "value": "CampusConnect" } },
+    { "model": "admins.systemsetting", "fields": { "key": "maintenance_mode", "value": "false" } },
+    { "model": "admins.systemsetting", "fields": { "key": "allow_self_registration", "value": "false" } },
+    { "model": "admins.systemsetting", "fields": { "key": "2fa_enabled", "value": "true" } }
+  ]
+  

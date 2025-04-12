@@ -1,0 +1,9 @@
+{
+    "course_id": 1,
+    "date": "2025-05-10",
+    "attendances": [
+      {"student_id": 1, "present": true},
+      {"student_id": 2, "present": false}
+    ]
+  }
+  
